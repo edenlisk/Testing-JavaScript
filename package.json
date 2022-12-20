@@ -1,0 +1,23 @@
+{
+  "name": "tesing-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edenlisk/Testing-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edenlisk/Testing-JavaScript/issues"
+  },
+  "homepage": "https://github.com/edenlisk/Testing-JavaScript#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
